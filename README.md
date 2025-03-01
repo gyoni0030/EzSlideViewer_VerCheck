@@ -1,0 +1,2 @@
+# EzSlideViewer_VerCheck
+アプリの最新バージョン情報管理用
